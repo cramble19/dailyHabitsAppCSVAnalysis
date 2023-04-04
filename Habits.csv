@@ -1,0 +1,25 @@
+Position,Name,Question,Description,NumRepetitions,Interval,Color
+001,Bath,Did you bath today?,,1,1,#00ACC1
+002,Morning Bowel Movement,,,1,1,#7CB342
+003,Wake Up Early,When did you woke today?,,1,1,#00897B
+004,Sleep on Time,,,1,1,#1976D2
+005,Cycling,How many km did you cycle today?,,1,1,#7CB342
+006,Night Brush,Did you brush at night today?,,1,1,#aaaaaa
+007,Color,,,1,1,#aaaaaa
+008,Junk food,,,1,1,#D32F2F
+009,Read book when not sleeping,,,1,1,#F9A825
+010,Productive thing,,,1,1,#F57C00
+011,Cat cutie 🐱,,,1,1,#D81B60
+012,agd/am,,,1,1,#D81B60
+013,Swarma,,,1,1,#1976D2
+014,Waffle,,,1,1,#1976D2
+015,Burger,,,1,1,#1976D2
+016,Pizza,,,1,1,#1976D2
+017,Wrap,,,1,1,#1976D2
+018,Maggie,,,1,1,#1976D2
+019,French Fry/Chili potato,,,1,1,#1976D2
+020,Garlic Bread,,,1,1,#1976D2
+021,Kurkure/Snacks,,,1,1,#1976D2
+022,Samosa/ Oily stuffs,,,1,1,#1976D2
+023,Momos,,,1,1,#1976D2
+024,Chicken,,,1,1,#1976D2
